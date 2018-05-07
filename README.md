@@ -15,3 +15,5 @@ Goto https://www.nordstromrack.com
 
 Please use java or c# to create the test application
 You dont need to test all the requirements. But feel free to expand the create as many test cases you can
+
+Please fork from this repo and once complete please do a PR. 
